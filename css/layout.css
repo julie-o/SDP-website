@@ -91,7 +91,7 @@ header .header-social {
 	font-size: 20px;
    font-weight: normal;
    line-height: 54px;
-   color: #424a56;
+   color: #96947c;
    margin: 0 10px 0 0;
    padding: 0;
    float: right;
@@ -147,7 +147,7 @@ ul#nav li a {
    line-height: 38px;
 	text-decoration: none;
    text-align: left;
-   color: #58687A;
+   color: #96947c;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -186,7 +186,7 @@ ul#nav li.current a { color: #fff; }
 
 /* Hero Text */
 .hero-text {
-	color: #676e73;
+	color: #96947c;
    width: 83%;
    text-align: center;
    margin: 54px auto 24px auto;
