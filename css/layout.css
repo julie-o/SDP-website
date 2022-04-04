@@ -289,6 +289,21 @@ ul#nav li.current a { color: #fff; }
    color: #222;
 }
 
+.imgcont img {
+   width:45%;
+   float: center;
+   margin: 2px;
+}
+
+.imgcont2 img {
+   width:100%;
+   float: center;
+}
+
+.secondtext {
+   text-align: right;
+}
+
 .fluid-video-wrapper { margin-top: 18px; }
 
 
